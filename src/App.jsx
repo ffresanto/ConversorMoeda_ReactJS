@@ -29,7 +29,7 @@ function App() {
   }, [rates])
 
   function formatar(numero) {
-    return numero.toFixed(4)
+    return numero.toFixed(2)
   }
 
   function handleQuantidade1Change(quantidade1) {
