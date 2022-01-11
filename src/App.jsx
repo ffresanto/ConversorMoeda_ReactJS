@@ -13,7 +13,7 @@ function App() {
   const [rates, setRates] = useState([]);
 
   useEffect(() => {
-    axios.get('http://data.fixer.io/api/latest?access_key=fe3f5327db2a2aa9c40317420c814a77&format=1')
+    axios.get(process.env.REACT_APP_FIXER_API_KEY)
       .then(response => {
         setRates(response.data.rates)
     })
