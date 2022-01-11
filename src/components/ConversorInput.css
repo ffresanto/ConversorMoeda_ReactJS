@@ -1,25 +1,32 @@
 .group {
-  background: #335;
+  background: rgb(135, 135, 255);
   width: 180px;
   margin: 0 auto 20px;
   display: grid;
-  grid-template-columns: 100px 80px;
+  grid-template-columns: 130px 90px;
   border-radius: 15px;
+  width: 230px;
 }
+
 input,
 select {
   background: none;
   border: 0;
   color: #fff;
+  outline: none;
+}
+
+select {
+  cursor: pointer;
 }
 
 select:hover {
-  color: rgb(66, 0, 219);
+  color: rgb(0, 0, 0);
 }
 
 input {
-  padding-left: 10px;
+  padding-left: 20px;
 }
 select {
-  padding: 15px;
+  padding: 18px;
 }

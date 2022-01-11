@@ -53,9 +53,11 @@ function App() {
   }
 
   return <div>
-    <h1>Conversor de Moeda</h1>
+    <div className="wrapper">
+     <p>CONVERSOR DE MOEDAS 💰</p>
     <ConversorInput onQuantidadeChange={handleQuantidade1Change} onMoedaChange={handleMoeda1Change} moedas={Object.keys(rates)} quantidade={quantidade1} moeda={moeda1}/>
     <ConversorInput onQuantidadeChange={handleQuantidade2Change} onMoedaChange={handleMoeda2Change} moedas={Object.keys(rates)} quantidade={quantidade2} moeda={moeda2}/>
+    </div>
   </div>;
 }
 
