@@ -19,6 +19,8 @@ Necessário realizar a instalação das aplicações/frameworks abaixo:
 
 * [Node.js](https://nodejs.org/en/)
 
+* [API Fixer](https://fixer.io/)
+
 ## :fire: Configurando o Projeto Localmente
 
 1) Crie uma conta na **[Fixer](https://fixer.io/product)** para pegar sua API Key
