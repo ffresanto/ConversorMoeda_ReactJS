@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/44379238/148862325-2ca86207-5abf-401d-
 
 ## :computer: Recursos Utilizados:  
 
-Necessário realizar a instalação das aplicações/frameworks abaixo:
+Necessário realizar a instalação das aplicações/frameworks ou realizar cadastros nos itens abaixo:
 
 * [Node.js](https://nodejs.org/en/)
 
