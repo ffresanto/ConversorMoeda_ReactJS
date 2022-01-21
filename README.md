@@ -2,7 +2,7 @@
 
 # ConversorMoeda_ReactJS
 
-Este é um pequeno projeto desenvolvido em ReactJS, utilizando pro-types e consumindo a API da **[Fixer](https://fixer.io/)**. Fiz esse desenvolvimento para estudar e aprimorar meus conhecimentos em react.
+Este é um pequeno projeto que faz a conversão de moedas de varios tipos, e foi desenvolvido em ReactJS, utilizando pro-types e consumindo a API da **[Fixer](https://fixer.io/)**. Fiz esse desenvolvimento para estudar e aprimorar meus conhecimentos em react.
 
 ## 📸 Galeria
 
